@@ -1,7 +1,4 @@
-﻿//SimpleLoader by Wilson, https://github.com/WilsonPublic/SimpleLoader [Open Source Cheat Loader]
-//This is very noob friendly and can easily be adapted, this has no form of protection against cracking so please come up with your own ideas on how to prevent cracking
-//I recommend using Dot Net Reactor to protect your programs
-
+﻿
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -100,5 +97,7 @@ namespace WindowsFormsApp2
             button2.Enabled = false;
             button2.Text = "Copied";
         }
+
+      
     }
 }
